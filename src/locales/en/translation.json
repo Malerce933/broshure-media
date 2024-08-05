@@ -1,0 +1,461 @@
+
+{
+    "full-screen": {
+        "nav": {
+            "about-us": "About us",
+            "propositions": "Propositions",
+            "statistics": "Statistics",
+            "contacts": "Contacts"
+        },
+        "date": "25.10.2024 – 29.10.2024",
+        "become": "Become our partner"
+    },
+    "what-bec": {
+        "title": "What is the BEC?",
+        "text1": "It`s a competition that provides a platform for young engineers to apply their knowledge and abilities in addressing real technical issues within the Case Study (CS) or Team Design (TD) categories.",
+        "text2": "Participants are students passionate about tackling contemporary challenges and developing innovative projects. The main goal of the event is to spark interest among youth in the advancement of engineering, raise a level of awareness of the field and foster the availability of skilled professionals in Ukraine.",
+        "more": "Find out more"
+    },
+    "subjects": [
+        [
+            {
+                "subText":  "Case Study",
+                "text": " — a category in which you need to propose a theoretical solution to a given engineering, economic, production, social, or marketing issue."
+            },
+            {
+                "text": " — to develop a plan of action that covers all the requirements and fits within a certain budget.",
+                "subText":  "The goal"
+            },
+            {
+                "image": "subject1"
+            }
+           
+        ],
+        [
+            {
+                "subText":  "Team Design",
+                "text": " — a category in which participants are required to solve a practical issue in the field of IoT, embedded, electronics, radio engineering, or mechanics. "
+            },
+            {
+                "text": " — to create a new device prototype or improve an old one using the materials provided.",
+                "subText":  "The goal"
+            },
+            
+           {
+                "image": "subject2"
+           }
+            
+        ]
+
+    ],
+  
+    "portrait": {
+        "title": "Portrait of the participant",
+        "student": "Student of NU \"LP\"",
+        "age": "Age: ",
+        "majors": "Majors:",
+        "specialities": [
+            "Software Engineering",
+            "Computer Engineering",
+            "Cybersecurity",
+            "Systems Analysis",
+            "Systems Engineering",
+            "Architecture and Urban Planning",
+            "Metrology",
+            "Applied Mechanics",
+            "Electronics",
+            "Industrial and Civil Construction",
+            "Others"
+          ]
+    },
+    "statistics": {
+        "title": "Event statistics",
+        "statistic": "Statistics",
+        "text1": "Applications for participation: ",
+        "text2": "Participants: "
+    },
+    "partners": "We were supported by",
+
+    "about-best": {
+        "title": "About BEST Lviv",
+        "text": "BEST Lviv (Board of European Students of Technology) is a chapter of an international non-profit public organization that brings together students of technical specialties. Our mission is to develop students through knowledge exchange and cooperation between companies, universities and students in Europe.",
+        "subText1": "local branches",
+        "subText2": "countries",
+        "subText3": "years of experience"
+    },
+    "basket": {
+        "title": "Cart",
+        "successMessage": "The purchase letter has been successfully sent to the organizers, expect a reply!",
+        "propositions": "Packages",
+        "options": "Options",
+        "modalText1": "Enter your email address",
+        "modalText2": "Enter your company name",
+        "modalSubmit": "Submit",
+        "modalError1": "Please enter your email address",
+        "modalError2": "Please enter the company name",
+        "modalError3": "Please enter a valid email address",
+        "discont": "Discounts",
+        "discontText1": " on purchase three packages of proposals",
+        "discontText2": " for partner companies of EBEC`2021 and/or BEC`2023 (applies after the agreement of the organisers)",
+        "discontText3": " for each partner, that works in military and military-tech field of work (applies after the agreement of the organisers)",
+        "discontText4": "*Discounts cannot be combined" 
+    },
+    "packets" : {
+        "title": "Packages of proposals",
+        "discontText1": "*10% of all funds will be transferred to support our army.",
+        "discontText2": "*The payment will proceed according to the NBU exchange rate.",
+        "discontText3": "*After the end of the competition each partner company will get a full report with all the photos and aftermovie.",
+        "propositions": [
+                
+                {
+                    "title": "Solid Base",
+                    "points": [
+                            "Participation in the networking",
+                            "Option of providing a judge or/and a mentor",
+                            "The logotype on our website, on the brand wall and in the aftermovie",
+                            "Promotion on social media"
+                    ],
+                    "subInfo": "This package of proposals is mandatory!",
+                    "price": "350"
+                },
+                {
+                    "title": "Influencer",
+                    "points": [
+                        
+                            "Post on the Instagram feed",
+                    
+                        "Video presentation of the company",
+                    
+                        "Post on the Telegram channel",
+                        
+                        
+                        "Company`s banner on the venue"
+                        
+                    ],
+                    "subInfo": "Only 3 companies can buy",
+                    "price": "300"
+                },
+                {
+                    "title": "Utopia",
+                    "points": [
+                    
+                            "Possibility to conduct a workshop among participants",
+
+                            "Logo on T-shirts",
+                    
+                        
+                            "Access to the CV database of participants",
+                        
+                            "Permanent access to competitions",
+                        
+                        
+                            "Sending out job vacancies via a Telegram bot",
+                        
+                    
+                            "Article about the company on the event website"
+                        
+                    ],
+                    "subInfo": "Only 4 companies can buy",
+                    "price": "700"
+                },
+                {
+                    "title": "Advanced",
+                    "points": [
+                        
+                        "Reels Instagram post",
+                        
+                        
+                        "Trial interview with participants",
+                        
+                        
+                        "Video presentation of the company",
+                        
+                        
+                        "Nomination from the company",
+                        
+                        
+                        "A day with the company",
+                        
+                        
+                        "Sending out job vacancies via a Telegram bot",
+                        
+                        
+                        "Podcast with a company representative"
+                        
+                    ],
+                    "subInfo": "The company can choose 4 selling points out of 7",
+                    "price": "550"
+                }
+            ]
+        },
+
+ "packetsInfo": {
+    "propositions": [
+      {
+        "title": "Solid Base",
+        "points": [
+          {
+            "text": "Promotion on social media",
+            "description": "Information about your company will be posted on our social media: 1 Instagram story on the official page @best_lviv and 1 LinkedIn post about our organisation."
+          },
+          {
+            "text": "Participation in the networking",
+            "description": "The networking is an informal meeting of the company's representatives, participants, and organisers. The company can tell students about itself, current vacancies, and internship possibilities. The networking will be held on the day of the competition's official closing."
+          },
+          {
+            "text": "Option of providing a judge or/and a mentor",
+            "description": "The company provides a mentor and/or a judge for the category Case Study/Team Design. Mentoring sessions will be held during the competitions, so participants will have a chance to consult with your company's qualified employees."
+          },
+          {
+            "text": "The logotype on our website",
+            "description": "Your company's logotype will be placed on the competition's official website."
+          },
+          {
+            "text": "The logotype on the brandwall",
+            "description": "During the competitions, a giant banner with the logotypes of all the partners will be installed in the venue."
+          },
+          {
+            "text": "The logotype in the aftermovie",
+            "description": "Your company's logo will be shown in the after-movie of the competitions, which will be posted on the Instagram page @best_lviv."
+          }
+        ],
+        "price": "350",
+        "subInfo": "This package of proposals is mandatory!"
+      },
+      {
+        "title": "Influencer",
+        "points": [
+          {
+            "text": "Post on the Instagram feed",
+            "description": "Information about your company will be posted on our Instagram page @best_lviv."
+          },
+          {
+            "text": "Post on the Telegram channel",
+            "description": "Information about your company will be posted in the joint post on our Telegram channel BEST Lviv Students."
+          },
+          {
+            "text": "Company's banner on the venue",
+            "description": "Your company's banner will be installed in the venue during the competitions. The company provides a banner and a stand for it."
+          },
+          {
+            "text": "Video presentation of the company",
+            "description": "At the beginning of the networking, you can present your company via video. The video should last no longer than 5 minutes."
+          }
+        ],
+        "price": "300",
+        "subInfo": "Limited offer: only three companies can buy."
+      },
+      {
+        "title": "Advanced",
+        "points": [
+          {
+            "text": "Reels Instagram post",
+            "description": "Unique video on the Instagram page @best_lviv about your company."
+          },
+          {
+            "text": "Trial interview with participants",
+            "description": "During networking, participants of the competition will have a chance to engage in a short interview with representatives from your company. This is an opportunity to discover new talents and prospective employees within the student community."
+          },
+          {
+            "text": "Video presentation of the company",
+            "description": "The opportunity to present your company to the participants before the networking in the form of a video that will last up to 5 minutes."
+          },
+          {
+            "text": "Nomination from the company",
+            "description": "You will be able to choose your own nomination in the competition and reward the team whose solution or performance resonates most with your company."
+          },
+          {
+            "text": "A day with the company",
+            "description": "After the event, our Instagram stories will be filled with your company's content. You can send your videos or our team will help you create them. There will be up to 5 such stories."
+          },
+          {
+            "text": "Sending out job vacancies via a Telegram bot",
+            "description": "Semi-annual mailing of company vacancies in our Telegram bot, intended for registration, important announcements and communication during the event."
+          },
+          {
+            "text": "Podcast with a company representative",
+            "description": "This is an opportunity to make a podcast with our team and share your professional opinion on current issues in the field of engineering and beyond. The full video will be posted on our YouTube channel BEST Lviv, and some highlights on our Instagram page @best_lviv."
+          }
+        ],
+        "price": "550",
+        "subInfo": "The company can choose 4 selling points out of 7."
+      },
+      {
+        "title": "Utopia",
+        "points": [
+          {
+            "text": "Possibility to conduct a workshop among participants",
+            "description": "Opportunity to conduct a workshop or training lasting up to 40 minutes for participants during the official opening of the competition."
+          },
+          {
+            "text": "The logotype on T-shirts",
+            "description": "Your company's logo will be printed on the T-shirts that will be given to the participants and representatives of the BEST Lviv organisation."
+          },
+          {
+            "text": "Access to the CV database of participants",
+            "description": "This is an opportunity to access the CV database of participants."
+          },
+          {
+            "text": "Permanent access to competitions",
+            "description": "Representatives of your company will have unrestricted access to the competition venue."
+          },
+          {
+            "text": "Sending out job vacancies via a Telegram bot",
+            "description": "Semi-annual mailing of company vacancies in our Telegram bot, intended for registration, important announcements and communication during the event."
+          },
+          {
+            "text": "Article about the company on the event website",
+            "description": "We will publish an article about your company and its contribution to the organisation of the event on the official website of the competition."
+          }
+        ],
+        "price": "700",
+        "subInfo": "Limited package, 4 companies can buy."
+      }
+    ]
+  },
+
+  "addtitionalPropositions": {
+    "title": "Addtitional propositions",
+    "propositions": [
+        {
+          "text": "Trial interview with participants",
+          "price": "100"
+        },
+        {
+          "text": "Sending out job vacancies via a Telegram bot",
+          "price": "100"
+        },
+        {
+          "text": "Video presentation of the company",
+          "price": "120"
+        },
+        {
+          "text": "Logo on T-shirts",
+          "price": "180"
+        },
+        {
+          "text": "Access to the CV database of participants",
+          "price": "200"
+        },
+        {
+          "text": "Permanent access to competitions",
+          "price": "200"
+        },
+        {
+          "text": "Access to completed tasks of participants",
+          "price": "200"
+        },
+        {
+          "text": "A task from the company for the Case Study category",
+          "price": "250",
+          "special": "1 left"
+        },
+        {
+          "text": "A task from the company for the Team Design category",
+          "price": "250",
+          "special": "1 left"
+        }
+      ]
+  },
+  "additionalPropositionsInfo": [
+    {
+      "title": "Trial interview with participants",
+      "description": "During networking, participants of the competition will have a chance to engage in a short interview with representatives from your company. This is an opportunity to discover new talents and prospective employees within the student community."
+    },
+    {
+      "title": "Sending out job vacancies via a Telegram bot",
+      "description": "Semi-annual mailing of company vacancies in our Telegram bot, intended for registration, important announcements and communication during the event."
+    },
+    {
+      "title": "Video presentation of the company",
+      "description": "The opportunity to present your company to the participants before the networking in the form of a video that will last up to 5 minutes."
+    },
+    {
+      "title": "Logo on T-shirts",
+      "description": "Your company's logo will be printed on the T-shirts that will be given to the participants and representatives of the BEST Lviv organisation."
+    },
+    {
+      "title": "Access to the CV database of participants",
+      "description": "This is an opportunity to access the CV database of participants."
+    },
+    {
+      "title": "Permanent access to competitions",
+      "description": "Representatives of your company will have unrestricted access to the competition venue."
+    },
+    {
+      "title": "Access to completed tasks of participants",
+      "description": "Opportunity to access participants' completed tasks."
+    },
+    {
+      "title": "A task from the company for the Case Study category",
+      "description": "Your company will provide a task for the Case Study category. The task itself will be discussed and agreed upon with the organising team."
+    },
+    {
+      "title": "A task from the company for the Team Design category",
+      "description": "Your company will provide a task for the Team Design category. The task itself will be discussed and agreed upon with the organising team."
+    }
+  ],
+
+  "contacts": {
+    "title": "contacts",
+    "contacts": [
+    {
+        "image": "katya",
+        "name": "Kateryna Yaroshchuk",
+        "position": "Responsible for corporate relationships",
+        "number": "+380686382823",
+        "email": "kateryna.yaroshchuk@best-eu.org"
+    },
+    {
+        "image": "rula",
+        "name": "Ruslan Yavir",
+        "position": "Main organiser",
+        "number": "+380979517976",
+        "email": "ruslan.yavir@best-eu.org"
+    },
+    {
+        "image": "anya",
+        "name": "Anna Medzyn",
+        "position": "Responsible for corporate relationships",
+        "number": "+380960625230",
+        "email": "anna.medzyn@best-eu.org"
+    }
+]
+  },
+  
+    "opportunities": {
+        "title": "FOR COMPANY THE BEC — AN OPPORTUNITY TO",
+        "opportunities": [
+            {
+                "image": "opportunity1",
+                "text": "Increase the recognition of your company among the student community"
+            },
+            {
+                "image": "opportunity2",
+                "text": "Encourage active young people of Ukraine interested in engineering to cooperate"
+            },
+            {
+                "image": "opportunity3",
+                "text": "Find new ideas to solve your problem"
+            },
+            {
+                "image": "opportunity4",
+                "text": "Meet talented students and select promising employees among them"
+            },
+            {
+                "image": "opportunity5",
+                "text": "Support the development of young engineers"
+            }
+        ]
+    }
+ 
+
+  
+}
+
+    
+       
+      
+  
+
+  
