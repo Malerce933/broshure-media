@@ -83,7 +83,7 @@ export default function FullScreen({ propositionsRef, whatBecRef, statisticsRef,
             <div className="absolute top-4 right-4">
                 <button onClick={handleClickMenu} className="text-black text-2xl">&times;</button>
             </div>
-            <div className="flex flex-col items-center justify-center space-y-4 py-10 font-rubik  text-black burger-links">
+            <div className="flex flex-col items-center justify-center space-y-4 py-10 font-daysOne  text-black burger-links">
                 <button onClick={() => { handleScrollToWhatBec(); handleClickMenuElements(); }} className="text-[20px]">{t('full-screen.nav.about-us')}</button>
                 <button onClick={() => { handleScrollToPropositions(); handleClickMenuElements(); }} className="text-[20px]">{t('full-screen.nav.propositions')}</button>
                 <button onClick={() => { handleScrollToStatistics(); handleClickMenuElements(); }} className="text-[20px]">{t('full-screen.nav.statistics')}</button>

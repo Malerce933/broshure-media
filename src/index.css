@@ -456,7 +456,7 @@
   }
   .statistic__title{
     font-size: calc(24px + 12 * (100vw - 320px) / 1120);
-    margin-bottom: calc(50px * (100vw - 320px) / 1120);
+    margin-bottom: calc(16px + 34  * (100vw - 320px) / 1120);
   }
   .statistic__sub-title{
     font-size: calc(20px + 8 * (100vw - 320px) / 1120);
@@ -580,3 +580,46 @@ input[type="checkbox"] {
 }
 
 
+
+.what__title{
+  margin-bottom: calc(25px + 30 * (100vw - 320px) / 1120);
+}
+
+.vs__title{
+  margin-bottom: calc(25px + 30 * (100vw - 320px) / 1120);
+}
+.opportunities__title{
+  margin-bottom: calc(25px + 50 * (100vw - 320px) / 1120);
+} 
+
+.statistic__titlee{
+  margin-bottom: calc(25px + 30 * (100vw - 320px) / 1120);
+} 
+
+.portrait__title{
+  margin-bottom: calc(25px + 30 *  (100vw - 320px) / 1120);
+}
+
+.propositions__title{
+  margin-bottom: calc(25px + 30 *  (100vw - 320px) / 1120);
+}
+
+.sub-propositions__title{
+  margin-bottom: calc(25px + 30 *  (100vw - 320px) / 1120);
+}
+
+.basket__title{
+  margin-bottom: calc(25px + 30 *  (100vw - 320px) / 1120);
+}
+
+.partners__title{
+  margin-bottom: calc(25px + 30 * (100vw - 320px) / 1120);
+}
+
+.about__title{
+  margin-bottom: calc(25px +  30 *  (100vw - 320px) / 1120);
+}
+
+.contacts__title{
+  margin-bottom: calc(25px +  30 *   (100vw - 320px) / 1120);
+}

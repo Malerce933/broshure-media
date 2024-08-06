@@ -13,7 +13,7 @@ export default function TdVsCs() {
             {/* </div> */}
 
             <Title className=" relative z-50 vs__title text-center">CASE STUDY VS TEAM DESIGN</Title>
-            <div className=" bg-black p-5 lg:flex relative z-30 lg:gap-[196px]   ">
+            <div className=" bg-black p-5 pt-[0px] lg:flex relative z-30 lg:gap-[196px]   ">
                 {subjects.map((item, index) => <Subject t={t} key={index} subject={item} isLast={index === subjects.length - 1}></Subject>)}
             </div>
 
